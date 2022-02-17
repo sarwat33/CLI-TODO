@@ -15,20 +15,20 @@ pip install prettytable
 <i>Some Screenshots of the project:</i><br>
 
 #### main window
-![text](./assets/first.png)
+![text](./CLI_TODO/assets/first.png)
 
 #### REGISTRATION  
 
-![text](/assets/second.png)
+![text](./CLI_TODO/assets/second.png)
 
 #### LOGIN
-![text](./assets/third.png)
+![text](./CLI_TODO/assets/third.png)
 
 #### ENTER NEW TASK
-![text](./assets/four.png)
+![text](./CLI_TODO/assets/four.png)
 
 #### SHOW TODO LIST
-![text](./assets/five.png)
+![text](./CLI_TODO/assets/five.png)
 
 #### LOGOUT EVENT
-![text](./assets/six.png)
+![text](./CLI_TODO/assets/six.png)
